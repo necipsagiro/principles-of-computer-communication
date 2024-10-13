@@ -1,5 +1,3 @@
-// sudo killall -HUP mDNSResponder
-
 const locations = [
   'itu.edu.tr', // İstanbul
   'metu.edu.tr', // Ankara
